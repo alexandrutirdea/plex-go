@@ -55,6 +55,7 @@ type Metadata struct {
 	GrandparentTheme      string       `json:"grandparentTheme"`
 	GrandparentThumb      string       `json:"grandparentThumb"`
 	GrandparentTitle      string       `json:"grandparentTitle"`
+	OriginalTitle         string       `json:"originalTitle"`
 	GUID                  string       `json:"guid"`
 	AltGUIDs              []AltGUID    `json:"Guid"`
 	Index                 int64        `json:"index"`
