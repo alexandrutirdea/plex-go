@@ -1,4 +1,4 @@
-module github.com/alexandrutirdea/plex-go v1.0
+module github.com/alexandrutirdea/plex-go
 
 go 1.12
 
